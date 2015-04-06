@@ -1,0 +1,39 @@
+html{
+    background-color:#24b896;
+}
+#navigation li{
+   float:left;
+   margin:0 10px;
+   list-style-type:none;
+   padding:4px;
+   
+}
+body{
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	border: none;
+	background-color:#ffffff;
+	width: 750px;
+	margin: 20px auto;
+	padding-bottom: 15px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+        text-align: center;
+        
+}
+a:link {
+    text-decoration: none;
+    color: #000000;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}

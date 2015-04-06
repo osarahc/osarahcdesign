@@ -1,0 +1,101 @@
+@media (max-width: 600px)facet_sidebar {
+    display: none;
+  }
+p{
+   font-family: verdana; 
+}
+h1,h2,h3,h4,h5,h6
+{
+	margin: 0 100px;
+	font-family: verdana;
+}
+#header
+{
+	background: #7FFFD4;
+	padding: 20px;
+	color: #2F4F4F;
+        font-family: verdana;
+}
+
+#header h1
+ { 
+	margin: 0; 
+        font-family: verdana;
+}
+
+#navigation
+{
+	float: left;
+	width: 100%;
+	background: #2F4F4F;
+        font-family: verdana;
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+        font-family: verdana;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+        font-family: verdana;
+}
+
+#navigation li a
+{
+	display: block;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+        font-family: verdana;
+}
+
+#navigation li a:hover { background: #7FFFD4; }
+
+#content
+{
+	clear: left;
+	padding: 20px;
+        font-family: verdana;
+}
+#content h3
+{
+	color: #000;
+	font-size: 160%;
+	margin: 0 0 .5em;
+        font-family: verdana;
+}
+#content p{
+clear: left;
+	padding: 20px;
+        font-family: verdana;
+}
+#contentlinks li a
+{
+	display: block;
+	float: left;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+        font-family: verdana;
+}
+#contentlinks li a:hover { background: #7FFFD4; }
+
+#footer
+{
+	background: #7FFFD4;
+	color: #fff;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+        font-family: verdana;
+}
+#contactform{
+    background: #7FFFD4;
+    font-family: verdana;
+}
